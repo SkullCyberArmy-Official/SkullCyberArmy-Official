@@ -21,7 +21,7 @@
 
 
 
-<a href="https://i.ibb.co/pygHkJc/home.jpg"><img src="https://i.ibb.co/https://i.ibb.co/pygHkJc/home.jpg" alt="FB-IMG-16240318835053822" border="0"></a>
+<a href="https://i.ibb.co/pygHkJc/home.jpg"><img src="https://i.ibb.co/https://i.ibb.co/pygHkJc/home.jpg" alt="https://i.ibb.co/pygHkJc/home.jpg" border="0"></a>
 
 <a href="https://github.com/SkullCyberArmy-Official"><img title="SkullCyberArmy" src="https://komarev.com/ghpvc/?username=SkullCyberArmy-Official&label=Views&color=blue&style=plastic"></a>
 
