@@ -21,7 +21,7 @@
 
 
 
-<a href="https://i.ibb.co/pygHkJc/home.jpg"><img src="https://i.ibb.co/pygHkJc/home.jpg" border="0"></a>
+<a href="<img src="https://i.ibb.co/pygHkJc/home.jpg" border="0"></a>
 
 <a href="https://github.com/SkullCyberArmy-Official"><img title="SkullCyberArmy" src="https://komarev.com/ghpvc/?username=SkullCyberArmy-Official&label=Views&color=blue&style=plastic"></a>
 
@@ -30,7 +30,7 @@
 SkullCyberArmy 20 th
 </p><br>
 
-# i'm currently learning 📃
+# i'm Currently Learning 📃
  
  <p align="center">
 
