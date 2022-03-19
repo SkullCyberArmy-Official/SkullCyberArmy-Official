@@ -23,7 +23,7 @@
 
 <a href="https://i.ibb.co/54dzwFN/home.jpg"><img src="https://i.ibb.co/54dzwFN/home.jpg" alt="https://i.ibb.co/54dzwFN/home.jpg" border="0"></a>
 
-<a href="https://github.com/SkullCyberArmy-Official"><img title="SkullCyberArmy-Official" src="https://komarev.com/ghpvc/?username=SkullCyberArmy-Official&label=Views&color=blue&style=plastic"></a>
+<a href="https://github.com/SkullCyberArmy-Official"><img title="" src="https://komarev.com/ghpvc/?username=&label=Views&color=blue&style=plastic"></a>
 
 
 
