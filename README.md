@@ -23,7 +23,7 @@
 
 <a href="https://i.ibb.co/54dzwFN/home.jpg"><img src="https://i.ibb.co/54dzwFN/home.jpg" alt="https://i.ibb.co/54dzwFN/home.jpg" border="0"></a>
 
-<a href="https://github.com/SkullCyberArmy-Official"><img title="" src="https://komarev.com/ghpvc/?username=&label=Views&color=blue&style=plastic"></a>
+<a href="https://github.com/SkullCyberArmy-Official"><img title="SkullCyberArmy-Official" src="https://komarev.com/ghpvc/?username=SkullCyberArmy-Official&label=Views&color=blue&style=plastic"></a>
 
 
 
@@ -62,7 +62,7 @@ SkullCyberArmy 5Th
 
 <p align="center">
 
-  <a href="https://github.com/SkullCyberArmy-Official"><img src="https://github-readme-stats.vercel.app/api?username=&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true" /></a>
+  <a href="https://github.com/SkullCyberArmy-Official"><img src="https://github-readme-stats.vercel.app/api?username=SkullCyberArmy-Official&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true" /></a>
 
 </p>
 
