@@ -62,7 +62,7 @@ SkullCyberArmy 5Th
 
 <p align="center">
 
-  <a href="https://github.com/SkullCyberArmy-Official"><img src="https://github-readme-stats.vercel.app/api?username=SkullCyberArmy-Official&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true" /></a>
+  <a href="https://github.com/SkullCyberArmy-Official"><img src="https://github-readme-stats.vercel.app/api?username=&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true" /></a>
 
 </p>
 
