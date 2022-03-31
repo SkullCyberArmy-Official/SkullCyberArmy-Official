@@ -5,7 +5,7 @@
 -----
 I'm a Software Engineer Student who is passionate about writing code, solving problems, automating stuff, and building software.
 
-- 🔭 I’m currently a CS student at **Universitas Jakarta **.
+- 🔭 I’m currently a CS student at Universitas Jakarta.
 - 📚 I enjoy learning full-stack development focus on the Frontend.
 - 👨‍🎓 Looking forward to build mobile apps as well in the future. 📱
 <img width="45%" align="right" alt="Github" src="https://user-images.githubusercontent.com/99103722/154147514-fae0175c-29a8-4971-bab1-689ac746e5e3.gif" />
@@ -22,7 +22,7 @@ I'm a Software Engineer Student who is passionate about writing code, solving pr
 ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![](	https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows)
 ![](https://img.shields.io/badge/-SQLite3-black?style=flat-square&logo=sqlite)
 ![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
