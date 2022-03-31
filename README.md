@@ -1,6 +1,7 @@
 ### Hi there, Welcome To My Github 👋
-[![Whatsapp](	https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white)](https://wa.me/6283869780790)
-[![Saweria](https://img.shields.io/badge/Saweria-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://saweria.co/donate/skullcyberarmy)
+<a href="https://i.ibb.co/54dzwFN/home.jpg"><img src="https://i.ibb.co/54dzwFN/home.jpg" alt="https://i.ibb.co/54dzwFN/home.jpg" border="0"></a>
+[![Saweria](	https://img.shields.io/badge/Saweria-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://saweria.co/donate/skullcyberarmy)
+[![Whatsapp](https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white)](https://wa.me/6283869780790)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:skullcyberarmyart@gmail.com)
 -----
 I'm a Software Engineer Student who is passionate about writing code, solving problems, automating stuff, and building software.
